@@ -1,0 +1,123 @@
+Name:Rishika Rathore
+emaiil:rishika.rathore.che17@itbhu.ac.in
+assignment:2
+
+
+
+
+
+
+<html>
+<head>
+<title>Vishwanath temple</title>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display:Algerian ;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+nav {
+    margin-left: 200px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+    background-color:MistyRose ;
+}
+
+article{
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+     
+}
+
+article ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+article ul a {
+    text-decoration: none;
+}
+
+
+</style>
+</head>
+<body>
+<ul>
+<li><a href="https://www.google.co.in/search?rlz=1C1CHWL_enIN775IN775&ei=zqouWomRDMbYvATYkZTgDQ&q=places+to+visit+in+kashi+vishwanath&oq=places+to+vis
+&gs_l=psy-ab.1.1.0i67k1l2j0j0i67k1j0j0i67k1l2j0l3.4000.10086.0.12409.31.20.1.0.0.0.370.2100.0j3j4j2.9.0..2..0...1.1.64.psy-ab..21.10.2104...
+0i131k1j0i131i67k1.0.3hd-646SDOU">Places to see</a></li>
+<li><a href="https://www.shrikashivishwanath.org/accomodation.aspx">Accommodation</a></li>
+<li><a href="www.google.co.in">Search</a></li>
+</ul>
+ 
+<a href="https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Vishwanath_N-MP-23.jpg" alt="Vishwanath temple" width=100% height=100%>
+</a>
+<a href="http://live.shrikashivishwanath.org/live.aspx"><marquee>Live Darshan</marquee></a>
+<h1 style="color:#800000;font-family:Times New Roman;text-align:center">Vishwanath Temple</h1>
+<p style="text-align:center;">Enlighten your soul at this sacred place</p>
+<div class="container">
+<header>
+   <h1>More About Vishwanath Temple</h1>
+</header>
+<nav>
+<img src="https://www.shrikashivishwanath.org/css/images/shivlingameaning.gif" alt="##">
+
+</nav>
+<article>
+<p><a href="#his">History</a></p>
+<p><a href="#loc">Location</a></p>
+<p><a href="#vis">Best Time to Visit</a></p>
+<p><a href="https://www.shrikashivishwanath.org/">Shri Kashi Vishvanath Trust</a></p>
+</article>
+<footer>VT</footer>
+
+</div>
+<h2 id="his" >History</h2>
+<p>In 1742, the Maratha ruler Malhar Rao Holkar made a plan to demolish the mosque and reconstruct Vishweshwar temple at the site. However, his plan did not materialize, partially because of intervention by the Nawabs of Lucknow, who controlled the territory. Around 1750, the Maharaja of Jaipur commissioned a survey of the land around the site, with the objective of purchasing land to rebuild the Kashi Vishwanath temple.[7]:85 However, his plan to rebuild the temple did not materialize either. In 1780, Malhar Rao's daughter-in-law Ahilyabai Holkar constructed the present temple adjacent to the mosque. In 1828, Baiza Bai, widow of the Maratha ruler Daulat Rao Scindhia of Gwalior State, built a low-roofed colonnade with over 40 pillars in the Gyan Vapi precinct.[8] During 1833-1840 CE, the boundary of Gyanvapi Well, the ghats and other nearby temples were constructed.A 7-feet high stone statue of Nandi bull, gifted by the Raja of Nepal lies to the east of the colonnade. Many noble families from various ancestral kingdoms of Indian subcontinent and their prior establishments make generous contributions for the operations of the temple. In 1841, the Bhosales of Nagpur donated silver to the temple. In 1835, Maharaja Ranjit Singh donated 1 tonne of gold for plating the temple's dome.
+
+The temple was managed by a hereditary group of pandas or mahants. After the death of Mahant Devi Dutt, a dispute arose among his successors. In 1900, his brother-in-law Pandit Visheshwar Dayal Tewari filed a lawsuit, which resulted in him being declared the head priest.
+</p>
+<h2 id="loc">Location</h2>
+<p><a href="https://goo.gl/maps/dCCn9S7M2VJ2">click here</a></p>
+<h2 id="vis">Best Time to Visit</h2>
+<p>The temple will be at prime beauty throughout the year. Winter (October – March) has a pleasant climate which makes sightseeing easier. The rituals starts early bythree in the morning. The second ritual starts by 11:15 am. In the evening, rituals starts at 7 pm, 9 pm and 10:30 pm. The temple closes by 11 in the night.</p>
+
+<img src="https://s-media-cache-ak0.pinimg.com/originals/da/dc/2c/dadc2c2ce0fdf490d71378a0c4975b81.gif" alt="lord shiva" width=20% height=50%>                
+<h3>For further queries please <a href="https://www.shrikashivishwanath.org/contact.aspx">click here</a></h3>
+
+
+</body>
+</html>
